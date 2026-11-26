@@ -39,7 +39,7 @@ All raw ELISpot plate images are processed using a custom CellProfiler pipeline 
 - Measurement of shape and intensity features per spot and per well
 - Export of structured `.tsv` tables with all measured features
 
-> The CellProfiler pipeline file can be found under `/cellprofiler/CMVision_pipeline.cppipe`.
+> The CellProfiler pipeline file can be found under in the Folder Cellprofiler.
 
 ---
 
