@@ -2,10 +2,10 @@
 <img src="https://github.com/user-attachments/assets/cb3c631e-54f1-46d1-8940-a6045e409564" width="100" />
 </p>
 
-# CMVision
-CMVision is an open-source multi-feature scoring pipeline for ELISpot image analysis, designed to capture the full complexity of antigen-specific T cell responses. It integrates CellProfiler-based image processing with R-based composite scoring, enabling accurate quantification across multiple ELISpot wells.
+# T-ELI-Vision
+T-ELI-Vision is an open-source multi-feature scoring pipeline for ELISpot image analysis, designed to capture the full complexity of antigen-specific T cell responses. It integrates CellProfiler-based image processing with R-based composite scoring, enabling accurate quantification across multiple ELISpot wells.
 
-> 🧪 CMVision was developed to assess cellular immunity in cancer patients and healthy controls following SARS-CoV-2 mRNA vaccination, but it can be adapted for any ELISpot dataset.
+> 🧪 T-ELI-Vision was developed to assess cellular immunity in cancer patients and healthy controls following SARS-CoV-2 mRNA vaccination, but it can be adapted for any ELISpot dataset.
 
 ---
 
@@ -13,7 +13,7 @@ CMVision is an open-source multi-feature scoring pipeline for ELISpot image anal
 <img src="example_data/CMVision_ov.png">
 
 
-**Figure:** Overview of the CMVision pipeline for ELISpot image analysis and composite scoring.  
+**Figure:** Overview of the T-ELI-Vision pipeline for ELISpot image analysis and composite scoring.  
 (A) ELISpot plate images are processed using CellProfiler to extract biologically meaningful features from each well—such as spot count, well occupancy, and intensity metrics. These are used to compute five scoring systems that better reflect immune activity than simple spot enumeration.  
 (B) Sample images show accurate segmentation of wells and spots used in the pipeline.
 
@@ -112,7 +112,7 @@ These are located in the `/example_data/` folder and can be used as templates fo
 
 ## 📄 Citation
 
-If you use **CMVision** in your research, please cite:
+If you use **T-ELI-Vision** in your research, please cite:
 
 > Impact of CMV Infection and Cancer Treatment on Vaccine Efficacy in Oncology Patients. Darshak K. Bhatt, Manas Joshi, Frederique Visscher, Annemarie Boerma, Sjoukje F Oosting, Astrid A M van der Veldt, T Jeroen N Hiltermann, Corine H Geurts van Kessel, Anne-Marie C Dingemans, Egbert F Smit, John B A G Haanen, Elisabeth G E de Vries, Debbie van Baarle. medRxiv 2025.08.21.25334174; doi: [https://doi.org/10.1101/2025.08.21.25334174](https://www.medrxiv.org/content/10.1101/2025.08.21.25334174v1)
 ---
