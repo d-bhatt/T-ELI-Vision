@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/cb3c631e-54f1-46d1-8940-a6045e409564" width="100" />
+<img src="https://github.com/d-bhatt/T-ELI-Vision/blob/main/Telivision_logo.svg" width="200" />
 </p>
 
 # T-ELI-Vision
@@ -10,7 +10,7 @@ T-ELI-Vision is an open-source multi-feature scoring pipeline for ELISpot image 
 ---
 
 ## 📌 Overview
-<img src="example_data/CMVision_ov.png">
+<img src="example_data/TELIVision_overview.png">
 
 
 **Figure:** Overview of the T-ELI-Vision pipeline for ELISpot image analysis and composite scoring.  
